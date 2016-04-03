@@ -1,1 +1,1 @@
-# Auth0-StarerCode
+# Auth0-Starter-Code
